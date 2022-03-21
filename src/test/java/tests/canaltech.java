@@ -20,7 +20,7 @@ public class canaltech {
         driver.findElement(By.xpath("//a[@class='col-xs-6 feature-item big']//div[@class='box cover-img-wrap txt-in']")).click();
 
 
-        //driver.quit();
+        driver.quit();
 
     }
 }
