@@ -24,3 +24,8 @@ public class canaltech {
 
     }
 }
+
+//git init
+//git add .
+//git commit -m "Segundo Commit"
+//git push -u origin main
