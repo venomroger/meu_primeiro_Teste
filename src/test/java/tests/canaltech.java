@@ -17,7 +17,7 @@ public class canaltech {
         driver.get("https://canaltech.com.br/");
 
         driver.findElement(By.xpath("//a[@href='/video/']//div[@class='styles__ChipContainer-sc-h2xn3p-0 iiNSam']//span[@class='styles__ChipText-sc-h2xn3p-3 czzXnZ'][normalize-space()='ver tudo']")).click();
-        driver.findElement(By.xpath("//a[@class='col-xs-6 feature-item big']//div[@class='box cover-img-wrap txt-in']")).click();
+        //driver.findElement(By.xpath("//a[@class='col-xs-6 feature-item big']//div[@class='box cover-img-wrap txt-in']")).click();
 
 
         driver.quit();
